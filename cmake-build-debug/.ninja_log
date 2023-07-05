@@ -1,0 +1,5 @@
+# ninja log v5
+0	265	1688549666000000000	build.ninja	fe09138b391d4f25
+0	647	1688548664000000000	CMakeFiles/Simple_perceptron.dir/src/perceptron.cpp.o	2412006022d7daaa
+0	631	1688548664000000000	CMakeFiles/Simple_perceptron.dir/src/main.cpp.o	9ae2dfc327a42793
+647	689	1688548664000000000	Simple_perceptron	7c59dd3a3653f91b
