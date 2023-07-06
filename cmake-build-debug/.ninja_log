@@ -3,3 +3,6 @@
 0	647	1688548664000000000	CMakeFiles/Simple_perceptron.dir/src/perceptron.cpp.o	2412006022d7daaa
 0	631	1688548664000000000	CMakeFiles/Simple_perceptron.dir/src/main.cpp.o	9ae2dfc327a42793
 647	689	1688548664000000000	Simple_perceptron	7c59dd3a3653f91b
+1	599	1688578726000000000	CMakeFiles/Simple_perceptron.dir/src/main.cpp.o	9ae2dfc327a42793
+2	611	1688578726000000000	CMakeFiles/Simple_perceptron.dir/src/perceptron.cpp.o	2412006022d7daaa
+611	654	1688578726000000000	Simple_perceptron	7c59dd3a3653f91b

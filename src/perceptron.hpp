@@ -3,10 +3,9 @@
 
 #include <vector>
 
-#define LEARNING_RATE   0.5
+#define LEARNING_RATE   0.1
 #define RED             1.0
-#define ORANGE          0.7
-#define YELLOW          0.5
+#define YELLOW          0.0
 #define GREEN           -1.0
 
 class Perceptron {
